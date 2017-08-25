@@ -33,7 +33,7 @@ var itemsText = [
         , "name": "F"
     }];
 
-var currentIndex = 2;
+var currentIndex = 3;
 var mainContainer = document.getElementById("mainContainer");
 
 var blocksArray = [];
