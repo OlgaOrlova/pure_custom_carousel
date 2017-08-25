@@ -1,0 +1,33 @@
+#buttOne {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+#buttTwo {
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
+
+#mainContainer {
+    padding-left: 30px;
+
+}
+
+#blocks {
+    display: inline-block;
+    background-color: #ef5612;
+    border: 2px solid #3F0C1F;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+
+}
+
+#input {
+    width: 300px;
+    height: 50px;
+    background-color: aliceblue;
+}
